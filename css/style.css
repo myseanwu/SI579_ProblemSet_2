@@ -15,6 +15,10 @@ nav ul{
     text-align: center;
 }
 
+ul {
+    list-style-type: none
+}
+
 body{
 	margin:1%;
 	padding:1%;
